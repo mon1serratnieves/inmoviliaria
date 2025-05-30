@@ -1,0 +1,5 @@
+h1{color:black; font-family:Bookman old style;background-color:rgb(41, 103, 189)}
+h2{color:rgb(54, 123, 232); font-family:bookman old style;}
+P{background-color:white; color:rgb(41, 1, 184); font-family:bookman old style;}
+s{color:black; background-color:white;}
+button{color:white; background-color:black)
